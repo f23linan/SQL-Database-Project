@@ -18,6 +18,3 @@ The database models a shooting competition system, managing participants, shooti
 - Relational Database Design
 - Entity-Relationship Modelling
 - XML & DTD
-
-## About
-Developed as a university database systems assignment at the University of Skövde, focusing on relational database design, SQL implementation and data management.
